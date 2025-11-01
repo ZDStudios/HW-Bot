@@ -17,7 +17,7 @@ class HomeworkHelper:
         self.root.geometry("300x200")
         self.root.minsize(250, 150)
         
-        self.gemini_api_key = "AIzaSyDIqxtQGFRD1cbAbfWU8f3-mtB1lXXTvEo"
+        self.gemini_api_key = "GEMINI_API_KEY_GOS_HERE"
         
         # Configure grid weights for resizing
         self.root.grid_rowconfigure(0, weight=1)
@@ -320,3 +320,4 @@ class HomeworkHelper:
 if __name__ == "__main__":
     app = HomeworkHelper()
     app.run()
+

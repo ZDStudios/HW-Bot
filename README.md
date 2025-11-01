@@ -1,0 +1,1 @@
+This is a simple python that can do and answer homework questions easier it does require a Gemini API key you can get one for free if you have a google account just go to   https://aistudio.google.com/api-keys   and then click Get API Key then follow the instructions then paste the API Key into Line 42 of the code 
